@@ -1,2 +1,4 @@
 this is a test of the text i can ad.
 Can i remove the d?
+
+Now i make changes on the line to check if it turns up when i pull from the nett.
